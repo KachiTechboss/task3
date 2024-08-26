@@ -39,12 +39,13 @@
     
     hr{
       border-color:  hsl(215, 32%, 27%);
-      border-width: 1px;
+ 
     }
     .avatar{
         /* padding: 5px; */
         display: flex;
         column-gap: 15px;
+        align-items: center;
     
     }
  
