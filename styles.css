@@ -2,7 +2,7 @@ body{
     background-color:  hsl(217, 54%, 11%);
     font-family: "Outfit";
 }
-.main-container{
+.main{
     width: 300px;
     margin: 60px auto;
     border-radius: 10px;
